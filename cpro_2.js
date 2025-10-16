@@ -36,7 +36,7 @@ function displayProducts(products) {
 
     container.appendChild(card);
   });
-}
+}w
 
 function handleError(error) {
   console.error("An error occurred:", error.message);
